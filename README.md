@@ -1,2 +1,2 @@
-# # # # #  Response Landing Page 
+# Response Landing Page 
 <img src="" alt="Response Landing Page">
