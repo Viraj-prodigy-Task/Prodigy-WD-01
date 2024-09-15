@@ -1,2 +1,2 @@
-<p align="center"> <h1>Response Landing Page</h1> </p>
+<h1 align="center">Response Landing Page</h1> 
 <img src="" alt="Response Landing Page">
